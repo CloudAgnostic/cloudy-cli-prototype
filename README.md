@@ -4,6 +4,7 @@
 
 1) Python 2 or 3 installed
 2) boto3 library installed, can be done with pip or conda
+3) The AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY and login credentials for the corresponding aws account
 
 ## How to Test Prototype
 1) clone this repo
